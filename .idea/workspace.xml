@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fbc8829e-41dd-4672-a84f-d4245fe9e5ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/AddFishForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/AddFishForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/Fish.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/Fish.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/Inventory.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/Inventory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/Order.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/Order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/components/StorePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/components/StorePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/css/_animations.styl" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/css/_animations.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../catch-of-the-day/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../catch-of-the-day/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/05/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/05/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/09/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/10/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/12/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/13/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/14/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/18/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/_animations-finished.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/_animations.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/_colours.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/_fonts.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/_normalize.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/_typography.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/blanch_caps_inline-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/haymaker-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/haymaker-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/haymaker-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/fonts/haymaker-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/images/anchor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/css/style.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/19/src/sample-fishes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/20/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/EditFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/21/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/EditFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/22/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/EditFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/_animations-finished.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/_animations.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/_colours.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/_fonts.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/_normalize.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/_typography.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/blanch_caps_inline-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/haymaker-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/haymaker-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/haymaker-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/fonts/haymaker-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/images/anchor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/css/style.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/23/src/sample-fishes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/EditFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/24/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/crab.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/hali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/lobster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/mahi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/mussels.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/oysters.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/prawns.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/salmon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/images/scallops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/security-rules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/AddFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/EditFishForm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/Fish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/Inventory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/Login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/NotFound.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/Order.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/Router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/components/StorePicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/_animations-finished.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/_animations.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/_colours.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/_fonts.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/_normalize.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/_typography.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/blanch_caps_inline-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/fonts/haymaker-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/images/anchor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/css/style.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stepped-solutions/Finished App/src/sample-fishes.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1304" />
+    <option name="y" value="180" />
+    <option name="width" value="2058" />
+    <option name="height" value="1260" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learn-redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549058925071" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbc8829e-41dd-4672-a84f-d4245fe9e5ba" name="Default Changelist" comment="" />
+      <created>1549058649921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549058649921</updated>
+      <workItem from="1549058651196" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1304" y="180" width="2058" height="1260" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19890329" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>learn-redux</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
